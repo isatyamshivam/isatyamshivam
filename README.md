@@ -19,6 +19,9 @@
 <a href="https://leetcode.com/u/isatyamshivam/" target="_blank" rel="noopener noreferrer">
   <img height="50" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
+<a href="https://codeforces.com/profile/isatyamshivam" target="_blank" rel="noopener noreferrer">
+  <img height="50" src="https://img.shields.io/badge/Codeforces-1F1C1C?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
 </p>
 
 ---
