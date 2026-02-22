@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Passionate Frontend Developer | DevOps | Cloud Computing 🚀
+  Software Developer | DevOps | Cloud 
 </h1>
 
 <p align="center">
